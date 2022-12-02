@@ -1,4 +1,4 @@
-inputFilename = "input/day1q1.txt"
+inputFilename = "input/day1.txt"
 
 caloriesList = []
 
